@@ -3,6 +3,10 @@ Akerke, Madina, Aida IT-2503
 Description: A website where you can browse movies, compare ratings, open trailers and read reviews.
 Features: 5 pages, navigation menu, movie cards, ratings table, two forms, responsive design.
 Technologies: HTML, CSS, Bootstrap, Google Fonts, GitHub.
+Akerke : Style css,contact.html
+Aida : Trailers.html,reviews.html,README.md
+Madina : Index.html,movies.html
+https://qzxcvwyil.github.io/midterm-project/
 
 Website must have at least 5 pages
 <img width="543" height="542" alt="Снимок экрана 2026-10-07 223148" src="https://github.com/user-attachments/assets/765995d8-9231-4dae-80f6-b14fe65457d8" />
